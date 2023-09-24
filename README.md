@@ -4,9 +4,10 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies](#technologies)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+4. [ER Diagram](#er-diagram)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
 
 ## Introduction
 
@@ -34,6 +35,10 @@ The Online Bookstore Application is a web-based platform designed to facilitate 
   - Express.js for the server
   - MongoDB for the database
   - JWT for authentication
+
+## ER Diagram
+
+[ER Diagram](https://github.com/BhagyaUdayangani/Online_Bookstore_Application/blob/main/ERD.png)
 
 ## Installation
 1. Clone the repository:
